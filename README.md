@@ -1,7 +1,6 @@
 # Breth helmet project code
 
-This is the code for deco 7385 breathing helmet create by me.
-This is the live demo of Breath I/O, a wearable device to help you with breath training in jogging.
+This is the code for deco 7385 breathing helmet create by me, a wearable device to help you with breath training in jogging.
 
 ## Circuit diagram
 
@@ -29,6 +28,8 @@ The connection for display is not fully accurate, but due to the module missing 
 
 1. Connect Arduino and sensors folloing the diagram.
 
-1. Install dependencies library on Arduino IDE and upload to Arduino Uno board.
+1. Install dependencies library on Arduino IDE.
+
+1.upload project code to Arduino Uno board.
 
 1. Connect to the power and start.
