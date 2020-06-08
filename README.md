@@ -30,6 +30,6 @@ The connection for display is not fully accurate, but due to the module missing 
 
 1. Install dependencies library on Arduino IDE.
 
-1.upload project code to Arduino Uno board.
+1. upload project code to Arduino Uno board.
 
 1. Connect to the power and start.
